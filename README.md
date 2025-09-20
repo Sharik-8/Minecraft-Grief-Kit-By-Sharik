@@ -1,3 +1,3 @@
 # Sharik's Grief Kit
-> [!NOTE]
+> [!IMPORTANT]
 > This repository is no longer maintained.
