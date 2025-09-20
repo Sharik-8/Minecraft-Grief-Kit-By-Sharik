@@ -1,1 +1,1 @@
-# Minecraft-Grief-Kit-By-Sharik
+# Sharik's Grief Kit
